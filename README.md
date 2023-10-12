@@ -25,4 +25,4 @@ Here's how to do so:
       print('You are ' + age + ' years old')
   ```
 Here is a gif illustrating how the code works:
-![our_gif](https://gyazo.com/7b986672423e6bf7e3c9aedde698ecbf)
+![our-gif](https://gyazo.com/7b986672423e6bf7e3c9aedde698ecbf)
