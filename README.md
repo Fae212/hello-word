@@ -25,7 +25,7 @@ Here's how to do so:
       print('You are ' + age + ' years old')
   ```
 Here is a gif illustrating how the code works:
-![our-mp4]([https://gyazo.com/7b986672423e6bf7e3c9aedde698ecbf](https://github.com/Fae212/hello-word/blob/main/7b986672423e6bf7e3c9aedde698ecbf.mp4)https://github.com/Fae212/hello-word/blob/main/7b986672423e6bf7e3c9aedde698ecbf.mp4)
+![our-gif](https://gyazo.com/7b986672423e6bf7e3c9aedde698ecbf](https://github.com/Fae212/hello-word/blob/main/7b986672423e6bf7e3c9aedde698ecbf.mp4)https://github.com/Fae212/hello-word/blob/main/7b986672423e6bf7e3c9aedde698ecbf.mp4](https://github.com/Fae212/hello-word/blob/main/epic_gif.gif)https://github.com/Fae212/hello-word/blob/main/epic_gif.gif)
 
 
 # Why we chose our license:
